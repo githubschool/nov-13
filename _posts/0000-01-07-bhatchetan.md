@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-My change is correct - tejas
+Chetan changes are done here for testing
 Dalmation cat!!!
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
