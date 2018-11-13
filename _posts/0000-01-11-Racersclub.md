@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+intial commit by Ui
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
